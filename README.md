@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> Want to build a free world.
+
 <!--
 **sonq2lm3344/sonq2lm3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
